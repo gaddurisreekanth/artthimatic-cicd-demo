@@ -5,7 +5,7 @@ log:
   "message": "welcome to CI/CD process"
 deployment:
   app:
-    runtime: 4.4.0
+    runtime: "4.4.0"
   region: "us-east-1"
-  workers: 1
-  worktype: MICRO
+  workers: "1"
+  worktype: "MICRO"
