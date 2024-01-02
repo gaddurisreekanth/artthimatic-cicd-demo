@@ -2,7 +2,7 @@ http:
   port: "8081"
   
 log:
-  "message": "welcome to CI/CD process"
+  "message": "Hi welcome to CI/CD process"
 deployment:
   app:
     runtime: "4.4.0"
