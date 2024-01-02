@@ -40,7 +40,7 @@
       				<region>${deployment.region}</region>
       				<workers>${deployment.workers}</workers>
       				<workerType>${deployment.workerType}</workerType>
-      				<objectstorev2>true</objectstorev2>
+      				<objectStoreV2>true</objectStoreV2>
       				<properties>
         				<http.port>8081</http.port>
         				<mule.env>${env}</mule.env>
