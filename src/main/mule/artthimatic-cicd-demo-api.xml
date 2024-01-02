@@ -23,8 +23,8 @@ output application/json
 	"message": p('log.message'),
 	"addition": (vars.num1 + vars.num2),
 	"subtraction": (vars.num1 - vars.num2),
-	"multiplication": (vars.num1 * vars.num2),
-	"division": (vars.num1 / vars.num2)
+	"multiplication": (vars.num1 * vars.num2)
+	
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
